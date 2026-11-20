@@ -75,6 +75,11 @@ shasum -a 256 <APK 파일>               # macOS / Linux
     Open-Meteo
 ```
 
+## 문의
+
+버그나 문의는 [Issues](../../issues)에 남겨 주세요(GitHub 계정이 필요합니다).
+옷 사진이나 개인정보는 올리지 마세요.
+
 ## 라이선스와 고지
 
 앱에 포함되거나 앱이 내려받는 모델과 데이터의 출처·라이선스는 [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md) 와 [licenses/](licenses/) 에 있습니다.
