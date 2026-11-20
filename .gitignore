@@ -1,0 +1,10 @@
+# APK 와 모델 파일은 저장소에 넣지 않고 Releases 에 올린다.
+*.apk
+*.aab
+*.pte
+
+# OS / IDE
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
