@@ -43,11 +43,11 @@ SOFTWARE.
 * 가중치: OpenCLIP 형식 `PE-Core-S-16-384` <https://huggingface.co/timm/PE-Core-S-16-384>
 * 라이선스: Apache License 2.0. 전문은 [licenses/PE-Core-Apache-2.0.txt](licenses/PE-Core-Apache-2.0.txt)
   (원 저장소의 `LICENSE.PE`, 2026-11-19 확인)
-* 사용 범위와 바꾼 점: 이미지 인코더만 씁니다. 앱이 첫 실행 때 이 저장소의 Releases(`model-pe-core-s16-320-fp16`)에서
-  `pe-core-s16-320-fp16.pte` 를 내려받습니다.
+* 사용 범위와 바꾼 점: 이미지 인코더만 씁니다. 앱이 첫 실행 때 이 저장소의 Releases(`model-pe-core-s16-320-mixed`)에서
+  `pe-core-s16-320-mixed.pte` 를 내려받습니다.
   * 입력 크기를 384×384 에서 320×320 으로 바꾸고 위치 임베딩을 보간했습니다.
   * 입력 정규화(평균·표준편차 0.5)를 모델 안에 넣었습니다.
-  * ExecuTorch 형식(XNNPACK, fp16)으로 변환했습니다.
+  * ExecuTorch 형식(XNNPACK, fp16. 정규화 층만 float32)으로 변환했습니다.
   * 텍스트 인코더는 앱에 넣지 않았습니다. 카테고리·스타일 문장의 텍스트 임베딩을 PC 에서 미리 계산해
     앱 안의 `assets/models/pe-core-s16.labels.json` 에 넣었습니다.
   * 변환 코드는 kkukku-ml 저장소의 `experiments/exp1_model_selection/export_app_encoder.py` 입니다.
