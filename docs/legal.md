@@ -40,7 +40,7 @@
 
 ### 문의
 
-문의는 꾸꾸 저장소의 Issues(https://github.com/chyj-dv/kkukku/issues)로 해 주세요. GitHub 계정이 필요합니다.
+문의는 메일(support@kkukku.app)이나 꾸꾸 저장소의 Issues(https://github.com/chyj-dv/kkukku/issues)로 해 주세요.
 
 ## 개인정보 처리 안내 (필수 동의)
 
@@ -64,7 +64,7 @@
 
 Open-Meteo(open-meteo.com): 날씨를 볼 때와 앱을 열 때 대략적인 지역(위도·경도를 0.1도, 약 10km 단위로 반올림한 칸의 중심 좌표)을 보내 그 지역의 예보를 받습니다.
 
-노르웨이 기상청 MET Norway(api.met.no): Open-Meteo 가 답하지 않거나 늦을 때만 같은 좌표로 예보를 받습니다. 요청에는 이용 조건에 따라 앱 이름과 꾸꾸 저장소 주소를 적습니다.
+노르웨이 기상청 MET Norway(api.met.no): Open-Meteo 가 답하지 않거나 늦을 때만 같은 좌표로 예보를 받습니다. 요청에는 이용 조건에 따라 앱 이름과 운영자 문의처(꾸꾸 저장소 주소와 문의 메일)를 적습니다.
 
 두 곳은 운영자와 관계없는 날씨 제공처입니다. 운영자는 서버를 두지 않으며, 위치나 날씨 조회 기록을 받거나 저장하지 않습니다.
 
@@ -108,7 +108,9 @@ GitHub(github.com): 옷 분석 모델 파일(약 48MB)을 처음 실행할 때�
 
 ### 문의와 변경
 
-문의는 꾸꾸 저장소의 Issues(https://github.com/chyj-dv/kkukku/issues)로 해 주세요. GitHub 계정이 필요합니다.
+문의는 메일(support@kkukku.app)이나 꾸꾸 저장소의 Issues(https://github.com/chyj-dv/kkukku/issues)로 해 주세요.
+
+개인정보 보호 담당: 꾸꾸 운영자(support@kkukku.app). 운영자는 서버를 두지 않아 이용자의 개인정보를 받거나 보관하지 않지만, 개인정보 처리에 관한 문의와 고충은 이 메일로 받습니다.
 
 이 안내가 바뀌면 앱을 열 때 바뀐 내용을 보여 드리고 다시 동의를 받습니다.
 

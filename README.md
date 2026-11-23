@@ -13,9 +13,9 @@
 
 ## 앱 내려받기 (Android)
 
-**[최신 APK 내려받기](../../releases/latest)** — 2.0.0, 62.0MB
+**[최신 APK 내려받기](../../releases/latest)** — 2.0.1, 62.0MB
 
-* SHA-256: `0378d38849796feac06161f09a97ce8e307531698e6f4ca01e86e5f5d0d06e55`
+* SHA-256: `a40f1826ada8d050af3437fe9f88b19bb2dc78aedb837011b8943056a98ef8f3`
 * 서명 인증서(CN=KKUKKU) SHA-256 지문: `6a615b85532af3ec5af052d10ce701fa1880fe053d5d9683190f2fa12d11610d`.
   이후 버전도 같은 인증서로 서명하므로 덮어 설치하면 데이터가 남습니다.
 * 버전별 설치 파일과 변경 내용은 [Releases](../../releases)에 있습니다.
@@ -82,7 +82,8 @@ shasum -a 256 <APK 파일>               # macOS / Linux
 
 ## 문의
 
-버그나 문의는 [Issues](../../issues)에 남겨 주세요(GitHub 계정이 필요합니다).
+버그나 문의는 메일(**support@kkukku.app**)이나 [Issues](../../issues)로 보내 주세요(Issues 는 GitHub 계정이 필요합니다).
+개인정보 보호 담당도 같은 메일입니다.
 옷 사진이나 개인정보는 올리지 마세요.
 
 ## 라이선스와 고지
