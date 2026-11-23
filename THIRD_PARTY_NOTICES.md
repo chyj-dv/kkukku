@@ -65,3 +65,8 @@ SOFTWARE.
 
 * 출처: <https://open-meteo.com/>
 * 라이선스: CC BY 4.0
+
+## 날씨 데이터(보조): MET Norway
+
+* 출처: 노르웨이 기상청(Norwegian Meteorological Institute) Locationforecast 2.0 <https://api.met.no/>
+* 라이선스: CC BY 4.0 (NLOD 2.0 과 함께 제공). Open-Meteo 가 답하지 않을 때만 받으며, 받은 날에는 추천 화면에 출처를 표시합니다.
